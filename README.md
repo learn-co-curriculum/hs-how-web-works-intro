@@ -7,3 +7,5 @@
  So do you actually no how it works? How Facebook loads in your browser? How does it know what page to show you, what information to send your way? You're about to find out!
 
 
+
+<a href='https://learn.co/lessons/hs-how-web-works-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
