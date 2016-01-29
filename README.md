@@ -8,4 +8,4 @@
 
 
 
-<a href='https://learn.co/lessons/hs-how-web-works-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-how-web-works-intro' title='How The Internet Works'>How The Internet Works</a> on Learn.co and start learning to code for free.</p>
